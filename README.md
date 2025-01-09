@@ -1,1 +1,1 @@
-# MovieCaseStudy
+# Movie Case Study
